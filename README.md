@@ -1,13 +1,13 @@
 # EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD
 
 
-**DATE:**
+**DATE: 01/09/2025**
 
-**NAME:**
+**NAME: PRASANNA I**
 
-**ROLL NO:**
+**ROLL NO: 212223220079**
 
-**DEPARTMENT:**
+**DEPARTMENT: IT**
 
 ## Aim
 
@@ -103,7 +103,10 @@ With its power-efficient design, built-in LoRaWAN support, and flexible communic
 ```
 
 ## OUTPUT
-
+### Board On:
+![WhatsApp Image 2025-08-14 at 4 09 47 PM](https://github.com/user-attachments/assets/fa8be1e6-15b1-4dfb-9c23-37e56a50a69e)
+### Board Off:
+![WhatsApp Image 2025-08-14 at 4 10 16 PM](https://github.com/user-attachments/assets/1b24ee6e-2580-453e-ac9c-b2ff3921a7a9)
 ## Result
 
 Interfacing a digital output with ARM microcontroller based IOT development is executed and the results are verified.
