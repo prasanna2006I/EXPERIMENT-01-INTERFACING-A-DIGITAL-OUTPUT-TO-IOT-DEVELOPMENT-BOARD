@@ -3,11 +3,11 @@
 
 **DATE: 01/09/2025**
 
-**NAME: PRASANNA I**
+**NAME: T Rishabh srivatsav**
 
-**ROLL NO: 212223220079**
+**ROLL NO: 25001966**
 
-**DEPARTMENT: IT**
+**DEPARTMENT: CSE and IOT**
 
 ## Aim
 
